@@ -1,0 +1,25 @@
+#CREATED BY AJMIR HOSSAIN 
+#FOLLOW MY GITHUB : https://github.com/Ajmirhosen000
+from os import system as c
+logo='''
+`7MM"""YMM      `7MN.   `7MF'      .g8"""bgd 
+  MM    `7        MMN.    M      .dP'     `M 
+  MM   d          M YMb   M      dM'       ` 
+  MMmmMM          M  `MN. M      MM          
+  MM   Y  ,       M   `MM.M      MM.         
+  MM     ,M       M     YMM      `Mb.     ,' 
+.JMMmmmmMMM     .JML.    YM        `"bmmmd'  
+'''
+def clear():
+      c('clear')
+      print(logo)
+      print(40*'-')
+      print(' FB ACCOUNT : AJMIR HOSSAIN ')
+      print(' GITHUB : Ajmirhosen000 ')
+      print('40*'-')
+def main():
+      clear()
+      print(' [A] MARSHAL ENCRYTION ')
+      print(' [E] EXIT TERMINAL ')
+      option=input(' [?] CHOICE MUNE : ')
+      
